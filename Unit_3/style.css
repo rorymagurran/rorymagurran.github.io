@@ -1,13 +1,34 @@
 body {
 	text-align: center;
-	background: url("http://i.imgur.com/q0FaaAk.jpg");
+	background: url("laptop.png");
     background-size: cover;
     color: #fff;
-  font-family: Helvetica;
-}
+   font-family: 'Montserrat', cursive;
+   
+ }
 hr {
 	width: 200px;
 }
 p {
-  font-size: 22px;
+	color: #fff;
+	font-size: 25px;
+  
+ }
+h1 {
+	color: #3366ffcc;
+	font-size: 115px;
+	font-family: 'Bungee', cursive;
+}
+h3 {
+	color: #ffa500;
+	font-size: 55px;
+	font-family: 'Bungee', cursive;
+}
+h4 {
+	color: #505050;
+	font-size: 25px;
+	}
+
+ul {
+  list-style-type: none;
 }
