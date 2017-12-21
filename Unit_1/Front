@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Go!Panda</title>
+</head>
+
+<body>
+  <img src="http://i.imgur.com/KmiHe33.png">
+  <h1>Go!Panda is easy</h1>
+  <p>DJUNA BARNES</p>
+  <hr>
+   <p>made with &hearts; at GA</p>
+</body>
+
+</html>
