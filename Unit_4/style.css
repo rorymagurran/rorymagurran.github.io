@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:300,500|Shadows+Into+Light');
+
+
+body {
+	text-align: center;
+	background: url("https://rorymagurran.github.io/Unit_3/laptop.png");
+        background-size: cover;
+        color: #fff;   
+ }
+
+
+hr {
+	width: 200px;
+}
+
+p {
+	color: #fff;
+	font-size: 25px;
+  
+ }
+
+h1 {
+        color: #282828;
+	font-size: 130px;
+	font-family: 'Montserrat Alternates', sans-serif;
+        text-shadow: 4px 2px #fff;
+}
+
+h3 {
+	
+        color: #b8b8b8;
+        font-size: 65px;
+        font-family: 'Shadows Into Light', cursive;
+        
+}
+
