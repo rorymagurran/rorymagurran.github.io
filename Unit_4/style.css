@@ -13,11 +13,20 @@ hr {
 	width: 200px;
 }
 
+div {
+    margin: 9em;
+    padding: 2em 3em 0 3em;
+}
+
 p {
-	color: #fff;
+	color: #000;
 	font-size: 25px;
   
  }
+
+.one {
+      text-align: left;
+}
 
 h1 {
         color: #282828;
@@ -25,6 +34,7 @@ h1 {
 	font-family: 'Montserrat Alternates', sans-serif;
         text-shadow: 4px 2px #fff;
 }
+
 
 h3 {
 	
@@ -34,3 +44,10 @@ h3 {
         
 }
 
+footer {
+
+     background: #000;
+     font-size: 35px;
+     height: 45px;
+     margin: 
+}
