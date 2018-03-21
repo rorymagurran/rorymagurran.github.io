@@ -22,27 +22,35 @@ header {
         width: 100%;
 }
 
+#links {
+      
+      text-align: justify;
+      border: none;
+      padding: 20px;
+     
+}
+
 h1 {
       font-family: 'Montserrat Alternates', sans-serif;
 }
 
-#logo {
-       background: #1E90FF;
+main {
+              
+        height: 250px;
+        border: none;
+        padding: 20px;
+        font-family: 'raleway', sans-serif;
+        font-size: 75px;
+	      width: 100%;
+        
+}
+
+#front {
+       
        border: none;
        padding: 20px;
        height: 350px;
        width: 100%;
-}
-
-
-main {
-        background: #1E90FF;        
-        height: 150px;
-        border: none;
-        padding: 20px;
-        font-size: 25px;
-	      width: 100%;
-        
 }
 
 #two_column {
@@ -53,13 +61,13 @@ main {
 }
 
 #right {
-    background-image: url("https://github.com/rorymagurran/rorymagurran.github.io/");   
     border: none;
     padding: 20px;
     float: left;
-    width: 15%;
+    width: 32%;
     font-size: 35px;
-    font-family: 'bangers', sans-serif;
+    font-family: 'raleway', sans-serif;
+    color:  #1E90FF;
 }
 
 #left {
