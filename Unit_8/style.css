@@ -5,7 +5,7 @@
 body {
 	text-align: center;
 	background: ;
-        color: #fff;   
+  color: #fff; 
  }
 
 #wrapper {
@@ -19,6 +19,7 @@ header {
         text-align: center;
         border: none;
         padding: 20px;
+        width: 100%;
 }
 
 h1 {
@@ -26,10 +27,11 @@ h1 {
 }
 
 #logo {
-       background: url("https://github.com/rorymagurran/rorymagurran.github.io/master/Unit_8/laptop.jpg");
+       background: #1E90FF;
        border: none;
        padding: 20px;
        height: 350px;
+       width: 100%;
 }
 
 
@@ -39,7 +41,7 @@ main {
         border: none;
         padding: 20px;
         font-size: 25px;
-	
+	      width: 100%;
         
 }
 
@@ -47,6 +49,7 @@ main {
     background-color: #dcdcdc;
     border: none;
     padding: 20px;
+    width: 100%;
 }
 
 #right {
