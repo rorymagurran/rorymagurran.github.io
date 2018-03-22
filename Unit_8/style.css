@@ -74,9 +74,9 @@ main {
 #left {
   
     border: none;
-    padding: 35px;
+    padding: 25px;
     float: right;   
-    width: 60%;
+    width: 50%;
     text-shadow: 5px #000;
 }
 
@@ -102,7 +102,7 @@ main {
     border: none;
     padding: 15px;
     float: left;
-    width: 50%;
+    width: 49%;
     text-align: center;
 }
 
@@ -110,10 +110,10 @@ main {
     background: #fff;
     color: #888;
     border: none;
-    padding: 107px;
+    padding: 80px;
     float: left;
-    width: 37%;
-    font-size: 35px;
+    width: 38%;
+    font-size: 41px;
     font-family: 'raleway', sans-serif;
     
 }
@@ -133,7 +133,7 @@ main {
     font-size: 20px;
     font-family: 'raleway', sans-serif;
     color:  #fff;
-    text-shadow: .5px .5px #888;
+    
 }         
 
 footer {
