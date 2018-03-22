@@ -47,7 +47,7 @@ main {
       font-size: 20px;
       font-family: 'faster one', cursive;
       width: 100%;
-      height: 650px;
+      height: 850px;
         
 }
 
@@ -57,7 +57,7 @@ main {
     background: #87CEFA;
     border: none;
     padding: 20px;
-    height: 650px;
+    
 }
 
 #right {
@@ -65,7 +65,7 @@ main {
     padding: 80px;
     float: left;
     width: 26%;
-    font-size: 45px;
+    font-size: 35px;
     font-family: 'raleway', sans-serif;
     color:  #fff;
     text-shadow: .5px .5px #888;
